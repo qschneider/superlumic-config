@@ -9,5 +9,5 @@ ControlPersist yes
 Host *
   UseKeychain yes
 
-Host *.settlemint.io
+Host *.local
    User root
