@@ -54,7 +54,7 @@
         - { regexp: '^axel', line: 'axel ALL=(ALL) NOPASSWD: ALL' }
 
   roles:
-    - profile-all
+    #- profile-all
     - profile-developer
 
   vars:
